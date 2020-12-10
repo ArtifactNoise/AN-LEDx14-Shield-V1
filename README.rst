@@ -10,20 +10,35 @@ EtherCATシールド評価基板と兼用して使用できるように、SPI端
 仕様
 
     信号電圧：3.3 V～5 V
+
     LED1---D2
+
     LED2---D3
+
     LED3---D4
+
     LED4---D5
+
     LED5---D6
+
     LED6---D7
+
     LED7---D8
+
     LED8---D9
+
     LED9---D14
+
     LED10---D15
+
     LED11---D16
+
     LED12---D17
+
     LED13---D18
+
     LED14---D19
+
 
 内容物
 
